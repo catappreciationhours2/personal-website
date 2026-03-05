@@ -107,31 +107,31 @@ const HomePage = ({ featured }) => {
           <h4>Language Proficiency</h4>
           <div className="language-bars">
             <div className="language-entry">
-              <div className="language-label">Python – 40%</div>
+              <div className="language-label">Python – 95%</div>
               <div className="language-bar-track">
                 <div className="language-bar-fill python" style={{ width: '40%' }}></div>
               </div>
             </div>
             <div className="language-entry">
-              <div className="language-label">Rust – 20%</div>
+              <div className="language-label">Rust – 70%</div>
               <div className="language-bar-track">
                 <div className="language-bar-fill rust" style={{ width: '20%' }}></div>
               </div>
             </div>
             <div className="language-entry">
-              <div className="language-label">JavaScript – 15%</div>
+              <div className="language-label">JavaScript – 90%</div>
               <div className="language-bar-track">
                 <div className="language-bar-fill js" style={{ width: '15%' }}></div>
               </div>
             </div>
             <div className="language-entry">
-              <div className="language-label">C/C++ – 10%</div>
+              <div className="language-label">C/C++ – 85%</div>
               <div className="language-bar-track">
                 <div className="language-bar-fill java" style={{ width: '10%' }}></div>
               </div>
             </div>
             <div className="language-entry">
-              <div className="language-label">MATLAB/Simulink – 10%</div>
+              <div className="language-label">MATLAB/Simulink – 60%</div>
               <div className="language-bar-track">
                 <div className="language-bar-fill matlab" style={{ width: '10%' }}></div>
               </div>
